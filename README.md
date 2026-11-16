@@ -4,6 +4,9 @@ Class 3: Git, GitHub and artifact delivery. Class 4: Docker image delivery.
 
 This repository is my copy of the class starter, used to practise commits, pull requests and CI builds.
 
+## Purpose
+The site in `src` is checked and packaged by GitHub Actions, so every change goes through the same tests before it can be delivered.
+
 ## Local use
 Requires Python 3.11 or newer and Git. No pip install is needed.
 
